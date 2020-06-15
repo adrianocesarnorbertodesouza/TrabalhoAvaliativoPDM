@@ -56,7 +56,7 @@ class _TelainicialState extends State<Telainicial> {
                     width: 70.0,//Largura
                     height: 70.0,//Altura
                   ),
-                  label: Text("Voltar-1"),
+                  label: Text("btnteste-1"),
                   /*child: Text("Abrir"),*/
                   onPressed: () {
                     Navigator.pushNamed(context,
@@ -95,7 +95,7 @@ class _TelainicialState extends State<Telainicial> {
                     width: 70.0,//Largura
                     height: 70.0,//Altura
                   ),
-                  label: Text("Voltar-2"),
+                  label: Text("btnteste-2"),
                   onPressed: () {
                     Navigator.pushNamed(context,
                     "/Emconstrucao");
